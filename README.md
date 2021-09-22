@@ -1,12 +1,12 @@
 # Hello_World
 
 My name is Delaney Collis and I am currently a junior at the University of Iowa. I am studying marketing and business analytics/information systems with a minor in communications. I plan on graduating in May of 2023.
-## Project Title
+# Project Title
 **Hello World Sample**
 
-### Description
+# Description
 *Learning how to use GitHub through creating a new repository*
-#### How to Run Program
+# How to Run Program
 ```
 
 Hello_World/
@@ -17,13 +17,13 @@ Hello_World/
     │── examples.html
 ```
    
-##### Files Used
+# Files Used
 [Markdown Syntax Link](https://www.markdownguide.org/cheat-sheet/)
 
-###### Additional Documentation
+# Additional Documentation
 - No additional documentation
 
-###### Versioning
+# Versioning
 - Added description of sample repository
 - Added coding for how to run
 - Linked example markdown syntax used
