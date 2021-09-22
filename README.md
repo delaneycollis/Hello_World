@@ -24,6 +24,6 @@ Hello_World/
 - No additional documentation
 
 ###### Versioning
-- *Added description of sample repository
-- *Added coding for how to run
-- *Linked example markdown syntax used
+- Added description of sample repository
+- Added coding for how to run
+- Linked example markdown syntax used
